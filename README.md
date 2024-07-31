@@ -1,3 +1,2 @@
 # MultibandCompressor
-This project consist in a Python implementation of a Multiband Compressor used in audio processing.
-Its all written in italian since it's my thesis for my degree in computer science.
+This project is the work I've done as my thesis for my degree in computer science; Its a notebook written in Italian explaining and implementing a multiband compressor.
